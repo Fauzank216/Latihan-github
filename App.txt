@@ -1,0 +1,13 @@
+Teknologi yang dipakai :
+ front end:
+-Javascript
+  -frame work js
+-html
+-css
+  -frame work css
+===================
+  Back end:
+-Php
+  -frame work php
+-Database
+-Api
