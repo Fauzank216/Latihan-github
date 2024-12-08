@@ -1,3 +1,13 @@
+
+Teknologi yang dipakai :
+ front end:
+-Javascript
+  -frame work js:
+    -React js
+-html
+-css
+  -frame work css
+   -tailwind
   Back end:
 -Php
   -frame work php:
