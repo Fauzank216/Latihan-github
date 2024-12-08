@@ -3,7 +3,7 @@ Teknologi yang dipakai :
 -Javascript
   -frame work js:
     -React js
-    -Vue
+    -angular
 -html
 -css
   -frame work css
